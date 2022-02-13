@@ -1,0 +1,138 @@
+header{
+    display: block;
+    display: flex;
+}
+
+.prdiv img{
+    
+    margin-right: 700px;
+
+
+}
+
+
+.nav1,.li1{
+    float: right;
+    display: flex;
+
+}
+.li1 a{
+    display: block;
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#logolong{
+    width: 10%;
+    height: 4%;
+}
+
+
+
+.sec{
+    background: url("../img/backgroung_image.jpg") no-repeat;
+    height: 700px;
+    margin: top 0; ;
+}
+
+.sec p{
+    color: white;
+    font-size: 1,4em;
+    text-align: center;
+    padding-top: 250px;
+}
+
+.sec h1 {
+    color: white;
+    font-size: 1,4em;
+    text-align: center;
+    padding-top: 0;
+
+}
+
+
+.p1 {
+    text-align: center;
+}
+
+article{
+    display: flex;
+    
+    margin-left: 250px;
+
+
+}
+
+article div{
+    
+    width: 300px;
+
+    text-align: center;
+}
+
+.dir{
+    text-align: center;
+}
+
+
+.dir p{
+    
+    margin-left: 500px;
+
+    
+    width: 417px;
+}
+
+
+footer{
+    color: white;
+    background-color: rgb(53, 5, 80);
+}
+
+
+.li2 a{
+    display: block;
+    color: white;
+    text-decoration: none;
+
+}
+
+.pbas{
+    
+    text-align: center;
+
+}
+
+.secbas{
+    display: flex;
+    
+    margin-left: 250px;
+
+}
+
+.secbas div{
+    
+    width: 388px;
+
+}
+
+.pgris{
+    color: gray;
+}
+
+.icone{
+    
+    margin-left: 546px;
+
+}
+
+i{
+    display: flex;
+    color: gray;
+    text-align: center;
+    margin-right: 90px;
+
+}
+
+
